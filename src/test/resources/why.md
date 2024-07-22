@@ -99,3 +99,7 @@ Example benchmarks for map:
 ![Memory](./memory-map.png)
 
 [More on performance](https://tech.ringieraxelspringer.com/blog/programming/cause-i-remember-everything-measuring-performance-of-persistent-collections-for-java/dl82jz8)
+
+## Futher reading
+- [Towards better functional programming in Java with vavr](https://sonalake.com/latest/towards-better-functional-programming-in-java-with-vavr/)
+- [Functional programming in Java - introduction to vavr](https://www.j-labs.pl/blog-technologiczny/functional-programming-in-java-introduction-to-vavr-io/)
